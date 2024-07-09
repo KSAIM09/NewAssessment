@@ -1,0 +1,43 @@
+# Dependency directories
+node_modules/
+
+# Environment variables
+.env
+
+# Build artifacts
+build/
+dist/
+*.log
+*.pid
+
+# IDE or editor-specific files
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Miscellaneous
+*.DS_Store
+Thumbs.db
+*.tmp
+
+# Optional: Uncomment the following lines if using TypeScript
+# TypeScript build output
+# *.js
+# *.js.map
+
+# Optional: Uncomment the following line if using npm
+# package-lock.json
+
+# Optional: Uncomment the following line if using Yarn
+# yarn.lock
+
+# Ignore local config file (if present and not required to be shared)
+# config.json
+
+# Ignore sensitive or personal files
+# credentials.json
+
+# Ignore any other file or directory specific to your project setup
+# example.txt
